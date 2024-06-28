@@ -54,7 +54,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'practice1505.urls'
-
+#hell
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
